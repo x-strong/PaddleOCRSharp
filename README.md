@@ -2,6 +2,7 @@
 
 
 #### 如果项目对你有用或者喜欢，那就点个赞&#9733; 。谢谢！
+## [最新代码](https://gitee.com/raoyutian/PaddleOCRSharp)
 
 ## 介绍
 -----
